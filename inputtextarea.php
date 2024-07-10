@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Form Kritik dan Saran</title>
+</head>
+<body>
+  <form action="prosestextarea.php" method="post" name="input">
+    <h2>Isikan Kritik dan Saran Saudara</h2>
+    <textarea name="saran" cols="40" rows="5"></textarea><br>
+    <input type="submit" name="Proses" value="Input Saran"/>
+  </form>
+</body>
+</html>
